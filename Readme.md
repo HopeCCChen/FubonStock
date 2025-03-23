@@ -23,7 +23,7 @@
 
 1. Clone 本倉庫到本地：
    ```bash
-   git clone https://github.com/your-repo/stock-tutorial.git
+   git clone https://github.com/HopeCCChen/FubonStock.git
    ```
 2. 依照目錄順序學習並參考示例代碼。
 3. 如有問題，可在 Issues 提問。
