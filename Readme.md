@@ -4,7 +4,7 @@
 
 ## 章節目錄
 
-1. [帳戶連結與測試](chapters1/01_account_setup.md)
+1. [帳戶連結與測試](chapters1/)
 2. [市場數據與分析](chapters/02_market_data.md)
 3. [交易策略基礎](chapters/03_trading_strategies.md)
 4. [程式化交易](chapters/04_algorithmic_trading.md)
